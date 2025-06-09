@@ -33,14 +33,18 @@
   <a href=".github/CONTRIBUTING.md">🤝 Contribute</a>
 </p>
 
-> Don't hesitate to Star ⭐️, Issue 📝, and PR 🛠️
-
 > Python>=3.9
 
-> This project is not abandoned, just no new features are planned.
-> If you encounter a problem, please raise an Issue
+This project is not abandoned, just no new features are planned.
 
-This project uses the ToolCall feature.
+This project was developed as an experimental project for MQ event-driven LLM.
+
+If you encounter a problem, please raise an Issue
+
+**If you are looking for similar projects, check out: https://github.com/AstrBotDevs/AstrBot**
+
+
+----
 
 It integrates a message queuing and snapshot system, offering plugin mechanisms and authentication prior to plugin
 execution.
